@@ -4,9 +4,11 @@
 
 ## Example
 ```
+docker run -it thanabhat/docker-neuraltalk
+```
+then
+```
 python -m neuraltalk.caption_generator
-```
-or
-```
+# or
 python /usr/local/lib/python2.7/dist-packages/neuraltalk/caption_generator.py
 ```
