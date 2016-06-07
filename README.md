@@ -1,6 +1,6 @@
 # Docker-Neuraltalk
 
-- Docker for [NeuralTalk](https://github.com/Thanabhat/neuraltalk)
+- Docker for caption generator of [NeuralTalk](https://github.com/Thanabhat/neuraltalk)
 
 ## Example
 ```
